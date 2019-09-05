@@ -23,6 +23,12 @@ git show
 git log
 
 ## Configure the Current Repo's User Name
+git config user.name "user name"
+
 ## Configure the Current Repo's User Email
+git config user.email "user@email.com"
+
 ## Configure the Global User NAME
+
+
 ## Configure the Global User Email
