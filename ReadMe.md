@@ -33,3 +33,5 @@ git config --global user.name "user name"
 
 ## Configure the Global User Email
 git config --global user.email "user@email.com"
+
+## Inserting new comment
